@@ -6,11 +6,11 @@
 
 ## SwiftUI 3.0 Componenets used in this application
 
--TabView
--ListView
--MapKit
--CustomMap Annotation
--Link
--Image
--Text
--Stack, etc
+- TabView
+- ListView
+- MapKit
+- CustomMap Annotation
+- Link
+- Image
+- Text
+- Stack, etc
